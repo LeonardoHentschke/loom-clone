@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>Page</div>
+    <div className=''>Welcome to Loom Clone</div>
   )
 }
 
