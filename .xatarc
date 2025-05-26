@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://LEONARDO-HENTSCHKE-s-workspace-2kqt80.us-east-1.xata.sh/db/loom-clone",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
